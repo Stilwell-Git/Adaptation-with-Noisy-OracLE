@@ -1,0 +1,12 @@
+{
+    "env_name": "walker-vel",
+    "n_train_tasks": 100,
+    "n_eval_tasks": 30,
+    "env_params": {
+        "n_tasks": 130
+    }
+    ,
+    "algo_params": {
+        "num_eval_runs_per_task": 1
+    }
+}

@@ -1,0 +1,3 @@
+[submodule "pearl"]
+	path = pearl
+	url = git@github.com:katerakelly/oyster.git

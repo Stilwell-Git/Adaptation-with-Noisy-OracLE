@@ -1,0 +1,13 @@
+{
+    "env_name": "ant-dir",
+    "n_train_tasks": 2,
+    "n_eval_tasks": 2,
+    "env_params": {
+        "n_tasks": 2
+    }
+    ,
+    "algo_params": {
+        "meta_batch_size": 4,
+        "num_eval_runs_per_task": 5
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "env_name": "ant-goal",
+    "n_train_tasks": 150,
+    "n_eval_tasks": 30,
+    "env_params": {
+        "n_tasks": 180
+    }
+    ,
+    "algo_params": {
+        "meta_batch_size": 10,
+        "num_train_itrs_per_epoch": 25
+    }
+}
